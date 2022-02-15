@@ -1,5 +1,7 @@
 # PINBALL WORLD!!!
 
+![Screenshot of finished project](./images/finished-project.png "Finished project!")
+
 ## Setup
 json-server --watch db.json
 
