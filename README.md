@@ -8,8 +8,7 @@ json-server --watch db.json
 ## Challenge #1
 Make a request to `http://localhost:3000/games` and add the names of all the games in the `#game-list` nav element. We want to see both the name **and** the manufacturer for each game, since some games have the same name from different manufacturers. The end result should be of the format `name (manufacturer)`. For example, `Ghostbusters (Stern)`.
 
-We want each element to be an `h5` tag.
-
+(Optional) If you want the styling to work, each element needs to be an `h5` tag.
 
 
 ## Challenge #2
