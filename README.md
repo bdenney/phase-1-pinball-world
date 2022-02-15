@@ -1,7 +1,7 @@
 # PINBALL WORLD!!!
 
 ## Setup
-json-server --watch http://localhost:3000/games
+json-server --watch db.json
 
 ## Challenge #1
 Make a request to the server and put the list of games on the left side in the `#game-list` nav element.
