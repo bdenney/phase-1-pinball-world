@@ -47,3 +47,35 @@ nav {
 nav h5:hover {
     color: #ab7e02;
 }
+
+
+input[type=text] {
+    display:inline-block;
+    border: 0;
+    width:100%;
+    color: black;
+    background: white;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 20px;
+    box-sizing: border-box;
+    font-family: 'Press Start 2P', cursive;
+}
+
+form {
+    width:200px;
+}
+
+input[type=submit] {
+    display:inline-block;
+    border: 0;
+    width:100%;
+    color: black;
+    background: white;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 20px;
+    box-sizing: border-box;
+    margin-top: 10px;
+    font-family: 'Press Start 2P', cursive;
+}
